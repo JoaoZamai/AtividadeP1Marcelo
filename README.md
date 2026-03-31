@@ -13,6 +13,7 @@ O mesmo vale para o login_viewmodel, caso os dados inseridos não sejam válidos
   O aplicativo inicia com uma splash page, simulando uma tela de carregamento
   Procede para a tela de login, onde o usuário deve informar seu email e senha, caso não sejam válidos, o login não tem continuidade.
   Caso o usuário não tenha uma conta, ele pode criar clicando no botao de cadastro, que o redireciona para a tela de registro, que pede:
+  
     # - Nome;
     # - Email;
     # - Senha (min 6 digitos);
